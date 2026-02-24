@@ -1,16 +1,15 @@
-## Hi there 👋
+Aspiring IT engineer focused on backend systems and infrastructure. I am driven by understanding how things work at a foundational level—protocols, system behavior, and performance characteristics.
 
-<!--
-**MelkerHaggander/MelkerHaggander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working with:
 
-Here are some ideas to get you started:
+Networking fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linux environments
+
+Scripting and automation
+
+System troubleshooting
+
+Security best practices
+
+I prioritize logical thinking, reproducible workflows, and clean technical implementation. My GitHub reflects ongoing experiments, structured learning projects, and iterative skill development.
